@@ -1,0 +1,100 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Hack Nerd Font",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "[cpp]": {
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
+    },
+    "files.exclude": {
+        "**/.git": false
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "C_Cpp.default.includePath": [
+        "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64"
+    ],
+    "C_Cpp.default.browse.path": [
+        "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include"
+    ],
+    "C_Cpp.default.systemIncludePath": [
+        "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64"
+    ],
+    "redhat.telemetry.enabled": true,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "RainbowBrackets.depreciation-notice": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.startupEditor": "none",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "git.suggestSmartCommit": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "window.menuBarVisibility": "toggle",
+    "explorer.confirmDelete": false,
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "markdown.preview.lineHeight": 1.5,
+    "editor.minimap.enabled": false,
+    "python.autoComplete.extraPaths": [],
+    "currentFilePath.defaultPathStartsFrom": "workSpace",
+    "markdown.preview.fontSize": 18,
+    "security.workspace.trust.banner": "never",
+    "python.analysis.extraPaths": [],
+    "markdown.extension.print.theme": "dark",
+    "markdown-mermaid.lightModeTheme": "dark",
+    "markdown-preview-github-styles.colorTheme": "dark",
+    "markdown-preview-github-styles.lightTheme": "dark",
+    "markdown-preview-enhanced.mermaidTheme": "dark",
+    "markdown-preview-enhanced.previewTheme": "github-dark.css",
+    "markdown-preview-enhanced.revealjsTheme": "night.css",
+    "github.copilot.inlineSuggest.enable": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.editor.enableAutoCompletions": false,
+    "github.copilot.editor.iterativeFixing": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-d>": true,
+        "<C-s>": false,
+        "<C-z>": false
+    },
+    "vim.useSystemClipboard": true,
+    "terminal.integrated.fontSize": 13,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "editor.fontSize": 15
+}
