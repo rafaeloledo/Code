@@ -96,5 +96,6 @@
         "editor.tabCompletion": "onlySnippets",
         "editor.wordBasedSuggestions": "off"
     },
-    "editor.fontSize": 15
+    "editor.fontSize": 15,
+    "codesnap.containerPadding": "1em"
 }
